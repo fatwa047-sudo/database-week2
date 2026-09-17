@@ -1,3 +1,4 @@
+USE sales;
 SELECT productName, quantityInStock
 FROM products
 ORDER BY buyPrice ASC
